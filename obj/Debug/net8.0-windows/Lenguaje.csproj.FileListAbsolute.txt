@@ -1,0 +1,158 @@
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Lenguaje.exe
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Lenguaje.deps.json
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Lenguaje.runtimeconfig.json
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Lenguaje.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Lenguaje.pdb
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\obj\Debug\net8.0-windows\Lenguaje.csproj.AssemblyReference.cache
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\obj\Debug\net8.0-windows\Lenguaje.Form1.resources
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\obj\Debug\net8.0-windows\Lenguaje.csproj.GenerateResource.cache
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\obj\Debug\net8.0-windows\Lenguaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\obj\Debug\net8.0-windows\Lenguaje.AssemblyInfoInputs.cache
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\obj\Debug\net8.0-windows\Lenguaje.AssemblyInfo.cs
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\obj\Debug\net8.0-windows\Lenguaje.csproj.CoreCompileInputs.cache
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\obj\Debug\net8.0-windows\Lenguaje.csproj.Up2Date
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\obj\Debug\net8.0-windows\Lenguaje.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\obj\Debug\net8.0-windows\refint\Lenguaje.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\obj\Debug\net8.0-windows\Lenguaje.pdb
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\obj\Debug\net8.0-windows\Lenguaje.genruntimeconfig.cache
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO LENGUAJE\Lenguaje\obj\Debug\net8.0-windows\ref\Lenguaje.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Lenguaje.exe
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Lenguaje.deps.json
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Lenguaje.runtimeconfig.json
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Lenguaje.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Lenguaje.pdb
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.csproj.AssemblyReference.cache
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.Form1.resources
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.csproj.GenerateResource.cache
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.AssemblyInfoInputs.cache
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.AssemblyInfo.cs
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.csproj.CoreCompileInputs.cache
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.sourcelink.json
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.csproj.Up2Date
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\refint\Lenguaje.dll
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.pdb
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.genruntimeconfig.cache
+C:\Users\cytro\OneDrive\Escritorio\Nueva carpeta\PROYECTO LENGUAJE\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\ref\Lenguaje.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Lenguaje.exe
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Lenguaje.deps.json
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Lenguaje.runtimeconfig.json
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Lenguaje.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Lenguaje.pdb
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.csproj.AssemblyReference.cache
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.Form1.resources
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.csproj.GenerateResource.cache
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.AssemblyInfoInputs.cache
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.AssemblyInfo.cs
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.csproj.CoreCompileInputs.cache
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.sourcelink.json
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.csproj.Up2Date
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\refint\Lenguaje.dll
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.pdb
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\Lenguaje.genruntimeconfig.cache
+C:\Users\cytro\OneDrive\Escritorio\PROYECTO_AUTOMATAS\obj\Debug\net8.0-windows\ref\Lenguaje.dll
